@@ -3,9 +3,9 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'HP Print Partners'',
-    description: All the latest buzz from the tech community
-    siteUrl: 'https://hp-print.netlify.com', // full path to blog - no ending slash
+    title: 'AusCyberSec'',
+    description: 'Cloud, Cybersecurity & DevOps News / Tutorials'
+    siteUrl: 'https://auscybersec.netlify.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
